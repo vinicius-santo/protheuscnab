@@ -1,0 +1,20 @@
+**************************CNAB FOLHA DE PAGAMENTO**************************
+MODELO 1
+	GPEBB.rem.........-> modelo 1 Banco do Brasil
+	GPECEF.rem........-> modelo 1 Caixa Econômica Federal
+	GPEBRADE.rem......-> modelo 1 Bradesco
+	GPEHSBC.rem.......-> modelo 1 HSBC
+	GPESANTANDER.rem..-> modelo 1 SANTANDER
+MODELO 2
+	banrisul.2pe......-> modelo 2 Banco do Rio Grande do Sul
+	santandr.2pe......-> modelo 2 Santander
+	bbrasil.2pe.......-> modelo 2 Banco do Brasil
+	HSBC.2pe..........-> modelo 2 HSBC
+	bradesc.2pe.......-> modelo 2 Bradesco
+	brad200.2pe.......-> modelo 2 Bradesco de 200 posições.
+SISPAG
+	GPEITAU.pag.......-> sispag itau Folha de Pagamento
+
+
+
+ 
